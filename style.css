@@ -1,0 +1,57 @@
+p{
+    color: #212529;
+}
+h1,h2,h3{
+    margin-bottom: 8px;
+}
+.price{
+    color: #FF136F;
+}
+.container{
+    margin-bottom: 100px;
+}
+.button1{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.carousel-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 100px 20px 180px;
+}
+
+.cat1 , .cat2 , .cat3{
+    border-radius: 10px;
+    padding: 20px;
+    color: #fff;
+}
+.cat1{
+    background-color: blue;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
+}
+#Subscribe{
+    height: 300px;
+
+}
+#Subscribe h5{
+    color: gray;
+}
+.text-area{
+    border-radius: 8px;
+    padding: 9px 25px;
+}
